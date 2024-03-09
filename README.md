@@ -1,5 +1,5 @@
 # beaconcure-backend
-A node + express typescript application that will handle JSON files from a folder on the server side
+A Node and Express typescript application that will handle JSON files from a folder on the server side
 
 
 ## Getting Started
